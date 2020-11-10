@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\codebitsacademy\C-Sharp\LabTask11-Collections\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
